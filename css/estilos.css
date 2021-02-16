@@ -75,3 +75,21 @@ padding-top: .3125rem;
 h4{
     margin-left: 15px;
 }
+form{
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    margin: 0;text-align: center;
+    
+}
+.form-group {
+    margin: 4rem;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+}
+input{
+    margin: 10px;
+    padding: 10px;
+}
