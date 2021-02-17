@@ -103,11 +103,37 @@ input{
     align-content: center;
 }
 .iconos{
-    font-size: 60px;
+    font-size: 40px;
     margin: 80px;
     border-radius: 20%;
 }
 .formulario{
     background-color: white;
 }
-
+.btn-circle .btn-xl {
+    width: 70px;
+    height: 70px;
+    padding: 10px 16px;
+    border-radius: 35px;
+    font-size: 24px;
+    line-height: 1.33;
+    }
+    
+.iconos .icon {
+    width: 60px;
+    height: 60px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    line-height: 1.42857;
+    color: honeydew;
+}
+.icon.twitter{
+    background-color: rgb(1, 247, 255);
+}
+.icon.facebook{
+    background-color: rgb(26, 26, 209);
+}
+.icon.instagram{
+    background-color: rgb(159, 19, 214);
+}
